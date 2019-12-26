@@ -1,6 +1,6 @@
 module.exports = {
     extends: [
-        '@commitlint/angular'
+        '@commitlint/config-angular'
     ],
     rules: {
         'type-enum': [
