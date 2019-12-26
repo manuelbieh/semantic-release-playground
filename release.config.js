@@ -10,9 +10,7 @@ module.exports = {
                     { revert: true, release: 'patch' },
                     // MAJOR
                     { type: 'major', release: 'major' },
-                    { type: 'MAJOR', release: 'major' },
                     { type: 'breaking', release: 'major' },
-                    { type: 'BREAKING', release: 'major' },
                     // MINOR
                     { type: 'minor', release: 'minor' },
                     { type: 'feat', release: 'minor' },

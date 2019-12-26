@@ -12,13 +12,20 @@ module.exports = {
                 'ci',
                 'docs',
                 'feat',
+                'feature',
                 'fix',
+                'bugfix',
+                'hotfix',
                 'improvement',
                 'perf',
                 'refactor',
                 'revert',
                 'style',
-                'test'
+                'test',
+                'release',
+                'major',
+                'minor',
+                'patch',
             ]
         ]
     }
