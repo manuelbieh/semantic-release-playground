@@ -47,6 +47,7 @@ module.exports = {
         '@semantic-release/github',
     ],
     prepare: [
+        '@semantic-release/changelog',
         '@semantic-release/npm',
         {
             path: '@semantic-release/git',
