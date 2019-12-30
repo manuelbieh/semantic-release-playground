@@ -1,32 +1,29 @@
 module.exports = {
-    extends: [
-        '@commitlint/config-angular'
-    ],
+    extends: ['@commitlint/config-angular'],
     rules: {
         'type-enum': [
             2,
             'always',
             [
-                'build',
-                'chore',
-                'ci',
-                'docs',
+                'major',
+                'breaking',
+                'minor',
                 'feat',
                 'feature',
+                'patch',
                 'fix',
                 'bugfix',
                 'hotfix',
-                'improvement',
                 'perf',
+                'docs',
                 'refactor',
+                'improvement',
+                'chore',
                 'revert',
+                'ci',
                 'style',
                 'test',
-                'release',
-                'major',
-                'minor',
-                'patch',
-            ]
-        ]
-    }
-}
+            ],
+        ],
+    },
+};
