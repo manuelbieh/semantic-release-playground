@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/manuelbieh/semrel/compare/v1.2.0...v1.2.1) (2019-12-30)
+
+
+### Bug Fixes
+
+* add release as type-enum to make release commits possible ([70dcf76](https://github.com/manuelbieh/semrel/commit/70dcf760862e9dde15fb5c96a433f1a5d23e05a9))
+
 # [1.2.0](https://github.com/manuelbieh/semrel/compare/v1.1.1...v1.2.0) (2019-12-26)
 
 
