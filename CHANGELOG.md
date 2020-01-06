@@ -1,3 +1,15 @@
+## [1.3.0](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.4...v1.3.0) (2020-01-06)
+
+
+### Features
+
+* ... and then we commit a new feature which should result in a new minor release ([32027a1](https://github.com/manuelbieh/semantic-release-playground/commit/32027a15a4552bb12a7b45a773f4e497e00a236f))
+
+
+### Improvements
+
+* first we commit a patch ([f15e963](https://github.com/manuelbieh/semantic-release-playground/commit/f15e9630194695d30de58bfc0a6595d2f86d7324))
+
 ### [1.2.4](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.3...v1.2.4) (2020-01-06)
 
 
