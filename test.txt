@@ -8,3 +8,4 @@ docs
 refactor
 improvement
 patch first
+feature second
