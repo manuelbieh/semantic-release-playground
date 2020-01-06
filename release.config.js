@@ -30,11 +30,36 @@ module.exports = {
                     { type: 'style', release: 'patch' },
                     { type: 'test', release: 'patch' },
                     // NO RELEASE
-                    // { scope: 'no-release', release: false },
+                    { scope: 'no-release', release: false },
                 ],
             },
         ],
-        '@semantic-release/release-notes-generator',
+        [
+            '@semantic-release/release-notes-generator',
+            {
+                // using conventionalcommits here since the angular preset does not allow custom
+                // types for release notes generation.
+                preset: 'conventionalcommits',
+                presetConfig: {
+                    types: [
+                        { type: 'major', section: 'Breaking' },
+                        { type: 'breaking', section: 'Breaking' },
+                        { type: 'feat', section: 'Features' },
+                        { type: 'feature', section: 'Features' },
+                        { type: 'fix', section: 'Fixes' },
+                        { type: 'bugfix', section: 'Fixes' },
+                        { type: 'hotfix', section: 'Fixes' },
+                        { type: 'chore', section: 'Improvements' },
+                        { type: 'perf', section: 'Improvements' },
+                        { type: 'improvement', section: 'Improvements' },
+                        { type: 'style', section: 'Improvements' },
+                        { type: 'refactor', section: 'Improvements' },
+                        { type: 'docs', section: 'Docs' },
+                    ],
+                },
+            },
+        ],
+        // '@semantic-release/release-notes-generator',
         '@semantic-release/changelog',
         '@semantic-release/npm',
         '@semantic-release/github',
@@ -42,8 +67,8 @@ module.exports = {
     ],
     verifyConditions: [
         '@semantic-release/npm',
-        '@semantic-release/git',
         '@semantic-release/github',
+        '@semantic-release/git',
     ],
     prepare: [
         '@semantic-release/changelog',
