@@ -1,3 +1,16 @@
+### [1.2.4](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.3...v1.2.4) (2020-01-06)
+
+
+### Docs
+
+* docs commits should generate a Docs headline ([4818bb2](https://github.com/manuelbieh/semantic-release-playground/commit/4818bb2a91e819a2beef3590749cadc34f761ba5))
+
+
+### Improvements
+
+* improvements are listed under improvement (surprise\!) and result in a patch release ([a1aae8e](https://github.com/manuelbieh/semantic-release-playground/commit/a1aae8e6fd652124df91eff1d13febc382d573d8))
+* refactor commits should end up under improvement and result in a patch release ([2c744f7](https://github.com/manuelbieh/semantic-release-playground/commit/2c744f7c31240cd921598540b124e39423d4789a))
+
 ### [1.2.3](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.2...v1.2.3) (2020-01-06)
 
 
