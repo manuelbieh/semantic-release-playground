@@ -1,3 +1,11 @@
+### [1.2.3](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.2...v1.2.3) (2020-01-06)
+
+
+### Improvements
+
+* let's see how multiline messages work ([6d8b834](https://github.com/manuelbieh/semantic-release-playground/commit/6d8b834125a15410ff72dd5016b302799c8ad7dd))
+* perf should trigger a patch release with improvement as headline ([9b0bce5](https://github.com/manuelbieh/semantic-release-playground/commit/9b0bce5e70defcfb00218ea927292c14f967fcf7))
+
 ### [1.2.2](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.1...v1.2.2) (2020-01-06)
 
 
