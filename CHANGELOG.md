@@ -1,3 +1,19 @@
+## [2.0.0](https://github.com/manuelbieh/semantic-release-playground/compare/v1.3.0...v2.0.0) (2020-01-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* let's try to create a breaking release
+
+### 💉 Improvements
+
+* use conventionalcommits as commit-analyer preset ([d33de97](https://github.com/manuelbieh/semantic-release-playground/commit/d33de97d8cf9c0c0359cd4f931ed5d0e4205e012))
+
+
+### 🔧 Fixes
+
+* let's try to create a breaking release ([796c1f7](https://github.com/manuelbieh/semantic-release-playground/commit/796c1f78c08d9dbebf98fc184639dd29916e4dcb))
+
 ## [1.3.0](https://github.com/manuelbieh/semantic-release-playground/compare/v1.2.4...v1.3.0) (2020-01-06)
 
 
