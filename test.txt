@@ -11,3 +11,4 @@ patch first
 feature second
 let's try to commit a breaking change
 seems to work. now a small patch
+now let's try to trigger a major release via footer
