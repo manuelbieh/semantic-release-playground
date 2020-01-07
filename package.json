@@ -19,6 +19,7 @@
     "semantic-release": "^15.14.0"
   },
   "dependencies": {
+    "@commitlint/config-conventional": "^8.3.4",
     "conventional-changelog-conventionalcommits": "^4.2.3"
   }
 }

@@ -1,7 +1,8 @@
 module.exports = {
-    extends: ['@commitlint/config-angular'],
+    extends: ['@commitlint/config-conventional'],
+    parserPreset: 'conventional-changelog-conventionalcommits',
     rules: {
-        // experiment with the max length a bitz
+        // experiment with the max length a bit
         'header-max-length': [2, 'always', 100],
         'type-enum': [
             2,
