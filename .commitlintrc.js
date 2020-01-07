@@ -1,19 +1,14 @@
 module.exports = {
     extends: ['@commitlint/config-conventional'],
-    parserPreset: 'conventional-changelog-conventionalcommits',
     rules: {
-        // experiment with the max length a bit
-        'header-max-length': [2, 'always', 100],
+        // experiment with the max length a bit. tried 100, seems to be a little short.
+        'header-max-length': [2, 'always', 144],
         'type-enum': [
             2,
             'always',
             [
-                // 'major',
-                // 'breaking',
-                // 'minor',
                 'feat',
                 'feature',
-                // 'patch',
                 'fix',
                 'bugfix',
                 'hotfix',

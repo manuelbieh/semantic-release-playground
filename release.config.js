@@ -8,15 +8,10 @@ module.exports = {
                 releaseRules: [
                     { breaking: true, release: 'major' },
                     { revert: true, release: 'patch' },
-                    // MAJOR
-                    // { type: 'major', release: 'major' },
-                    // { type: 'breaking', release: 'major' },
                     // MINOR
-                    // { type: 'minor', release: 'minor' },
                     { type: 'feat', release: 'minor' },
                     { type: 'feature', release: 'minor' },
                     // PATCH
-                    // { type: 'patch', release: 'patch' },
                     { type: 'fix', release: 'patch' },
                     { type: 'bugfix', release: 'patch' },
                     { type: 'hotfix', release: 'patch' },
@@ -30,6 +25,9 @@ module.exports = {
                     { type: 'ci', release: 'patch' },
                     { type: 'test', release: 'patch' },
                     // NO RELEASE
+                    { type: 'ci', release: false },
+                    { type: 'build', release: false },
+                    { type: 'release', release: false },
                     { scope: 'no-release', release: false },
                 ],
             },
