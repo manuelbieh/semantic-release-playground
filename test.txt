@@ -12,3 +12,10 @@ feature second
 let's try to commit a breaking change
 seems to work. now a small patch
 now let's try to trigger a major release via footer
+2020-01-14T19:07:51.403Z
+2020-01-14T19:10:42.082Z
+2020-01-14T19:13:51.663Z
+2020-01-14T19:13:51.900Z
+2020-01-14T19:13:52.099Z
+2020-01-14T19:14:09.672Z
+2020-01-14T19:14:10.525Z
