@@ -1,3 +1,11 @@
+### [6.2.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.2.0...v6.2.1) (2020-01-14)
+
+
+### 💉 Improvements
+
+* this is a chore ([d1014cc](https://github.com/manuelbieh/semantic-release-playground/commit/d1014cccb7108519acd6cbac053e998e5bf5c96e))
+* this is perf improvement ([b447374](https://github.com/manuelbieh/semantic-release-playground/commit/b447374f96118951b218def15bd33ea2978e6f29))
+
 ## [6.2.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.1.1...v6.2.0) (2020-01-14)
 
 
