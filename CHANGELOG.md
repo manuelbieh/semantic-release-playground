@@ -1,3 +1,10 @@
+### [6.1.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.1.0...v6.1.1) (2020-01-14)
+
+
+### 🔧 Fixes
+
+* this is a quick bugfix for the last release ([fc37cea](https://github.com/manuelbieh/semantic-release-playground/commit/fc37cea18bb399f1b7de52f48070b670be874781))
+
 ## [6.1.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.0.0...v6.1.0) (2020-01-14)
 
 
