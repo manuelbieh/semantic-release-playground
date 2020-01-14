@@ -1,3 +1,33 @@
+## [6.0.0](https://github.com/manuelbieh/semantic-release-playground/compare/v5.0.0...v6.0.0) (2020-01-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* this should result in a new major version
+* will a non-release still trigger a release if it contains a breaking change?
+
+### 💉 Improvements
+
+* and another commit ([305c57f](https://github.com/manuelbieh/semantic-release-playground/commit/305c57f452f8b9b48c99632eecf04feab6f6a4b1))
+* another commit with a few changes ([316d015](https://github.com/manuelbieh/semantic-release-playground/commit/316d015314fdc85d26f74debe61a1a0321095672))
+* using our custom release config again ([06e017d](https://github.com/manuelbieh/semantic-release-playground/commit/06e017d5786c92cd57f5092e4af5ad905d81a3dc))
+
+
+### 📚 Docs
+
+* added some documentation (narrator: he did not) ([2a27a41](https://github.com/manuelbieh/semantic-release-playground/commit/2a27a419c17f68746782e98d7a6766e6f3bc0a32))
+
+
+### 🔧 Fixes
+
+* fix all the things ([40ba651](https://github.com/manuelbieh/semantic-release-playground/commit/40ba651263089be43b5f4935872260bb9acb78a4))
+
+
+### release
+
+* now it get's interesting. type 'release' should not trigger a release\n ([e37cdc0](https://github.com/manuelbieh/semantic-release-playground/commit/e37cdc03eff1fe0157e6f0bc5be593974a63da2c))
+* preparing a release. now it get's interesting. will this trigger a release if it contains a breaking change? ([e9baa8f](https://github.com/manuelbieh/semantic-release-playground/commit/e9baa8fc35fa2c96608edbd8e18330bad704a1de))
+
 ## [4.0.0](https://github.com/manuelbieh/semantic-release-playground/compare/v3.0.0...v4.0.0) (2020-01-14)
 
 
