@@ -1,3 +1,26 @@
+### [6.4.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.4.0...v6.4.1) (2020-01-14)
+
+
+### 🔧 Fixes
+
+* bugfix should create a patch release ([46b022d](https://github.com/manuelbieh/semantic-release-playground/commit/46b022dc902b13f64a4373ff9c636130fdad1a3e))
+* fix should create a patch release ([e39b327](https://github.com/manuelbieh/semantic-release-playground/commit/e39b32754d584452df4f51a1a9d1279e0b8a10c4))
+* hotfix should create a patch release ([fa32e56](https://github.com/manuelbieh/semantic-release-playground/commit/fa32e565e8b43b981207f83a7c01f6ae95cbcb6a))
+
+
+### 💉 Improvements
+
+* chore should create a patch release ([81e058e](https://github.com/manuelbieh/semantic-release-playground/commit/81e058eedf2c8858fdc6cdeea4edd1496a963b25))
+* improvement should create a patch release ([51d9610](https://github.com/manuelbieh/semantic-release-playground/commit/51d961094f4d1e1486be4dd1f88dfdcb474acde8))
+* perf should create a patch release ([da70539](https://github.com/manuelbieh/semantic-release-playground/commit/da70539ca75e6bc2d89929808c05c444a3231328))
+* refactor should create a patch release ([1f40379](https://github.com/manuelbieh/semantic-release-playground/commit/1f4037907872bc1dd2b8861212f3bfbb1d343414))
+* style should create a patch release ([3de566d](https://github.com/manuelbieh/semantic-release-playground/commit/3de566d82abcc2ab5ac6f0254b00f68c3bf04fee))
+
+
+### 📚 Docs
+
+* docs should create a patch release ([3020109](https://github.com/manuelbieh/semantic-release-playground/commit/30201096131666fac6cf5b30b7b447b99b726c11))
+
 ## [6.4.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.3.0...v6.4.0) (2020-01-14)
 
 
