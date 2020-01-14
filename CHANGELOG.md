@@ -1,3 +1,10 @@
+## [6.2.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.1.1...v6.2.0) (2020-01-14)
+
+
+### 🧩 Features
+
+* using pull release title to trigger a build ([#2](https://github.com/manuelbieh/semantic-release-playground/issues/2)) ([3111c62](https://github.com/manuelbieh/semantic-release-playground/commit/3111c6200d52137df7558d5db86496fd4b2ae316))
+
 ### [6.1.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.1.0...v6.1.1) (2020-01-14)
 
 
