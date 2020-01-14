@@ -1,3 +1,15 @@
+### [6.2.2](https://github.com/manuelbieh/semantic-release-playground/compare/v6.2.1...v6.2.2) (2020-01-14)
+
+
+### 💉 Improvements
+
+* this is a chore commit ([0d6fe08](https://github.com/manuelbieh/semantic-release-playground/commit/0d6fe08c18319979ab96ca6d4be040f73b3db623))
+
+
+### 🔧 Fixes
+
+* this is a fix ([4bec6c0](https://github.com/manuelbieh/semantic-release-playground/commit/4bec6c0a36c7aed10e88c1f33a00b223766eb291))
+
 ### [6.2.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.2.0...v6.2.1) (2020-01-14)
 
 
