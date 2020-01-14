@@ -53,6 +53,14 @@ module.exports = {
                         { type: 'improvement', section: '💉 Improvements' },
                         { type: 'style', section: '💉 Improvements' },
                         { type: 'docs', section: '📚 Docs' },
+
+                        { type: 'ci', section: '⚙ Internals', hidden: true },
+                        { type: 'build', section: '⚙ Internals', hidden: true },
+                        {
+                            type: 'release',
+                            section: '⚙ Internals',
+                            hidden: true,
+                        },
                     ],
                 },
             },
