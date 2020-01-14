@@ -1,3 +1,15 @@
+## [6.3.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.2.2...v6.3.0) (2020-01-14)
+
+
+### 🔧 Fixes
+
+* rebase and merge - we commit a fix first ([b7253bd](https://github.com/manuelbieh/semantic-release-playground/commit/b7253bd10f909995657223486fa7f12b4915a022))
+
+
+### 🧩 Features
+
+* rebase and merge - we commit a feat second ([5129991](https://github.com/manuelbieh/semantic-release-playground/commit/5129991b42cfc4f385efcf022abd5bca434d5e37))
+
 ### [6.2.2](https://github.com/manuelbieh/semantic-release-playground/compare/v6.2.1...v6.2.2) (2020-01-14)
 
 
