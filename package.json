@@ -6,9 +6,9 @@
     "author": "Manuel Bieh <info@manuelbieh.de> (https://www.manuelbieh.de/)",
     "license": "MIT",
     "scripts": {
-        "tsc": "echo checking types. done!",
-        "lint": "echo linting. done!",
-        "test": "echo testing. done!"
+        "tsc": "sleep 10; echo checking types. done!",
+        "test": "sleep 3; echo testing. done!",
+        "lint": "sleep 1; echo linting. done!"
     },
     "devDependencies": {
         "@commitlint/cli": "^8.3.4",
