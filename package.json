@@ -5,6 +5,11 @@
     "keywords": [],
     "author": "Manuel Bieh <info@manuelbieh.de> (https://www.manuelbieh.de/)",
     "license": "MIT",
+    "scripts": {
+        "tsc": "echo checking types. done!",
+        "lint": "echo linting. done!",
+        "test": "echo testing. done!"
+    },
     "devDependencies": {
         "@commitlint/cli": "^8.3.4",
         "@commitlint/config-conventional": "^8.3.4",
