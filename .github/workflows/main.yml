@@ -6,17 +6,17 @@ on:
 
 jobs:
   setup:
-    runs-on: ubuntu-latest
+    runs-on: [ubuntu-latest]
     steps:
-    - uses: actions/checkout@v1
+#     - uses: actions/checkout@v1
     - uses: actions/setup-node@v1
       with:
         node-version: 12
-    - run: yarn
-    - uses: actions/upload-artifact@v1
-      with:
-        name: setup
-        path: .
+#    - run: yarn
+#     - uses: actions/upload-artifact@v1
+#       with:
+#         name: setup
+#         path: .
 
   typecheck:
     runs-on: ubuntu-latest
