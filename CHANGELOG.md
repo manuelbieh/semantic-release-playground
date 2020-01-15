@@ -1,3 +1,10 @@
+### [7.0.1](https://github.com/manuelbieh/semantic-release-playground/compare/v7.0.0...v7.0.1) (2020-01-15)
+
+
+### 🔧 Fixes
+
+* use yarn for dependencies ([d31e973](https://github.com/manuelbieh/semantic-release-playground/commit/d31e9733821545cdd57a2d9f31f3efd368464ca4))
+
 ## [7.0.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.4.1...v7.0.0) (2020-01-15)
 
 
