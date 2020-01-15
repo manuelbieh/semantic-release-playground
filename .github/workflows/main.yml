@@ -13,11 +13,13 @@ jobs:
       with:
         node-version: 12
     - run: yarn
+    - uses: actions/upload-artifact@v1
 
   typecheck:
     runs-on: ubuntu-latest
     needs: [setup]
     steps:
+      - uses: actions/download-artifact@v1
       - name: Typecheck
         run: yarn tsc
 
@@ -25,6 +27,7 @@ jobs:
     runs-on: [ubuntu-latest]
     needs: [setup]
     steps:
+      - uses: actions/download-artifact@v1
       - name: lint
         run: yarn lint
 
@@ -32,6 +35,7 @@ jobs:
     runs-on: [ubuntu-latest]
     needs: [setup]
     steps:
+      - uses: actions/download-artifact@v1
       - name: lint
         run: yarn test
 
