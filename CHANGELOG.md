@@ -1,3 +1,14 @@
+## [7.0.0](https://github.com/manuelbieh/semantic-release-playground/compare/v6.4.1...v7.0.0) (2020-01-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* this is breaking
+
+### 💉 Improvements
+
+* this line should be added to the changelog as subject for a breaking change ([7262df5](https://github.com/manuelbieh/semantic-release-playground/commit/7262df58c45f7cdc60e59c68d8ed6d7a236cc9fe))
+
 ### [6.4.1](https://github.com/manuelbieh/semantic-release-playground/compare/v6.4.0...v6.4.1) (2020-01-14)
 
 
