@@ -22,9 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: [setup]
     steps:
-      - uses: actions/download-artifact@v1
-        with:
-          name: setup
+      - uses: actions/checkout@v1
+      - run: yarn
       - name: Typecheck
         run: yarn tsc
 
@@ -32,9 +31,8 @@ jobs:
     runs-on: [ubuntu-latest]
     needs: [setup]
     steps:
-      - uses: actions/download-artifact@v1
-        with:
-          name: setup
+      - uses: actions/checkout@v1
+      - run: yarn
       - name: lint
         run: yarn lint
 
@@ -42,9 +40,8 @@ jobs:
     runs-on: [ubuntu-latest]
     needs: [setup]
     steps:
-      - uses: actions/download-artifact@v1
-        with:
-          name: setup
+      - uses: actions/checkout@v1
+      - run: yarn
       - name: lint
         run: yarn test
 
