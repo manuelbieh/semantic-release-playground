@@ -1,3 +1,13 @@
+### [7.0.2](https://github.com/manuelbieh/semantic-release-playground/compare/v7.0.1...v7.0.2) (2020-01-17)
+
+
+### 💉 Improvements
+
+* use global prettier config ([fc39b80](https://github.com/manuelbieh/semantic-release-playground/commit/fc39b80a692fc5f673cfe57d81dbd5fc806d1a55))
+* **no-release:** fix restore-key ([4a9f9ed](https://github.com/manuelbieh/semantic-release-playground/commit/4a9f9ed156a19adede63dff590902323326b5742))
+* add editorconfig ([e03a764](https://github.com/manuelbieh/semantic-release-playground/commit/e03a76415f74acf2ac4af889059ac861a2f44593))
+* **no-release:** checkout first ([bd12b4a](https://github.com/manuelbieh/semantic-release-playground/commit/bd12b4ac2986f3dd9ebd883321b97b5acd3cec94))
+
 ### [7.0.1](https://github.com/manuelbieh/semantic-release-playground/compare/v7.0.0...v7.0.1) (2020-01-15)
 
 
