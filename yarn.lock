@@ -397,6 +397,11 @@
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-6.2.0.tgz#d688d574400d96c5b0114968705366f431831e1a"
   integrity sha512-1OzrNb4RuAzIT7wHSsgZRlMBlNsJl+do6UblR7JMW4oB7bbR+uBEYtUh7gEc/jM84GGilh68lSOokyM/zNUlBA==
 
+"@werkzeugkiste/prettier-config@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@werkzeugkiste/prettier-config/-/prettier-config-1.1.0.tgz#2abf2a166260e7a4470b248e43e1552a1cd90fb7"
+  integrity sha512-yeHB2onV8dgXGM4DyH91bZQMPVLQ25GCcJW9YioqSsC5c66Rfyfs8macFKMgxkIlTeTE1BAVE/A6OpkHqer7LA==
+
 JSONStream@^1.0.4, JSONStream@^1.3.4, JSONStream@^1.3.5:
   version "1.3.5"
   resolved "https://registry.yarnpkg.com/JSONStream/-/JSONStream-1.3.5.tgz#3208c1f08d3a4d99261ab64f92302bc15e111ca0"
